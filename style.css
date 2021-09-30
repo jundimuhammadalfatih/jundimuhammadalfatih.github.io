@@ -36,4 +36,11 @@ html {
   line-height: 40px;
   color: white;
   font-size: 30px;
+
+  cursor: pointer;
+  display: none;
+}
+
+#top:hover {
+  color: black;
 }
