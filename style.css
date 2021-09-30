@@ -1,0 +1,39 @@
+body,
+html {
+  scroll-behavior: smooth;
+}
+
+.jumbotron {
+  background-color: #ffffff;
+  padding-top: 5rem;
+}
+
+#about {
+  background-color: #00cba9;
+  padding-top: 15rem;
+}
+
+#projects {
+  background-color: #ffffff;
+  padding-top: 5rem;
+}
+
+#contact {
+  background-color: #00cba9;
+  padding-top: 7rem;
+}
+
+#top {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background: #00cba9;
+  bottom: 100px;
+  right: 40px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+  font-size: 30px;
+}
